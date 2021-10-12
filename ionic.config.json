@@ -1,0 +1,7 @@
+{
+  "name": "ionicParkingcharge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
